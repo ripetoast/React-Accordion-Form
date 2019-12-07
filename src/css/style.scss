@@ -1,0 +1,38 @@
+body{
+    background: rgb(210, 225, 255);
+}
+
+.wrapper{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.acord{
+    width: 45vw;
+    background: rgb(222, 222, 222);
+}
+
+.card-header-bg{
+    background-image: linear-gradient(rgb(253,195,1), rgb(238,165,14));
+}
+
+.card-link{
+    color: white;
+    font-size: 0.6em;
+    text-shadow: 2px 2px 8px #000000;
+}
+
+.section-title{
+    color: white;
+    font-size: 1.2em;
+    text-shadow: 1px 1px 8px #000000;
+}
+
+.btn-purple{
+    background-image: linear-gradient(rgb(68,76,178), rgb(113,98,201));
+    color: white;
+    border-radius: 16px;
+    width: 80%;
+}
